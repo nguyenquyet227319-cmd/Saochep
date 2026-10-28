@@ -36,3 +36,24 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳台频道",翡翠台4K(字幕)
+http://cdn6.123.rr.kg/163189/fct4k
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳台频道",翡翠台(字幕)
+http://cdn6.123.rr.kg/163189/fct
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="港澳台频道",无线新闻台
+http://cdn6.123.rr.kg/163189/wxxw
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳台频道",NOW新闻台
+http://cdn.123.rr.kg/163189/now
+--------
+#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Các kênh Hồng Kông, Ma Cao & Đài Loan",TVB Jade 4K (Có phụ đề)
+http://cdn6.123.rr.kg/163189/fct4k
+#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="Các kênh Hồng Kông, Ma Cao & Đài Loan",TVB Jade (Có phụ đề)
+http://cdn6.123.rr.kg/163189/fct
+#EXTINF:-1 tvg-name="TVB News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="Các kênh Hồng Kông, Ma Cao & Đài Loan",TVB News
+http://cdn6.123.rr.kg/163189/wxxw
+#EXTINF:-1 tvg-name="NOW News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="Các kênh Hồng Kông, Ma Cao & Đài Loan",NOW News
+http://cdn.123.rr.kg/163189/now
